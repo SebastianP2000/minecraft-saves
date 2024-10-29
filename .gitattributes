@@ -1,1 +1,2 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+coop[[:space:]]2/* filter=lfs diff=lfs merge=lfs -text
