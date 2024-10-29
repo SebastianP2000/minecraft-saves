@@ -1200,17 +1200,11 @@
     },
     "done": true
   },
-  "dungeons_enhanced:chilled_halls": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "entered_ice_pit": "2024-10-28 20:55:57 -0300"
+      "shot_arrow": "2024-10-28 20:44:47 -0300"
     },
     "done": true
-  },
-  "regions_unexplored:ancient_specimens": {
-    "criteria": {
-      "blue_bioshroom_stem": "2024-10-28 20:49:32 -0300"
-    },
-    "done": false
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
@@ -1219,9 +1213,9 @@
     },
     "done": false
   },
-  "minecraft:adventure/shoot_arrow": {
+  "morevillagers:first_workstation_get": {
     "criteria": {
-      "shot_arrow": "2024-10-28 20:44:47 -0300"
+      "brewingstand": "2024-10-28 20:48:39 -0300"
     },
     "done": true
   },
@@ -1232,11 +1226,23 @@
     },
     "done": false
   },
+  "regions_unexplored:ancient_specimens": {
+    "criteria": {
+      "blue_bioshroom_stem": "2024-10-28 20:49:32 -0300"
+    },
+    "done": false
+  },
   "regions_unexplored:got_wood": {
     "criteria": {
       "blue_bioshroom_stem": "2024-10-28 20:49:32 -0300"
     },
     "done": false
+  },
+  "dungeons_enhanced:chilled_halls": {
+    "criteria": {
+      "entered_ice_pit": "2024-10-28 20:55:57 -0300"
+    },
+    "done": true
   },
   "battletowers:defeat_boss": {
     "criteria": {
@@ -1244,9 +1250,9 @@
     },
     "done": true
   },
-  "morevillagers:first_workstation_get": {
+  "born_in_chaos_v1:good_demoman": {
     "criteria": {
-      "brewingstand": "2024-10-28 20:48:39 -0300"
+      "good_demoman_0": "2024-10-29 20:38:42 -0300"
     },
     "done": true
   },
