@@ -1292,21 +1292,15 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_all_illager_structures": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "illager_camp": "2024-10-30 00:54:39 -0300"
+      "minecraft:cow": "2024-10-29 23:52:28 -0300"
     },
     "done": false
   },
-  "iceandfire:iceandfire/kill_sea_serpent": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "killed_fire_dragon": "2024-10-30 00:48:42 -0300"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
-    "criteria": {
-      "lifeturnedouttobeacomedy_0": "2024-10-30 01:10:25 -0300"
+      "bred": "2024-10-29 23:52:28 -0300"
     },
     "done": true
   },
@@ -1316,39 +1310,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
+  "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
-      "minecraft:cow": "2024-10-29 23:52:28 -0300"
+      "killed_fire_dragon": "2024-10-30 00:31:15 -0300"
     },
-    "done": false
+    "done": true
   },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2024-10-30 00:40:17 -0300"
-    },
-    "done": true
-  },
-  "nameless_trinkets:obtain/miners_soul": {
-    "criteria": {
-      "amphibious_hands": "2024-10-30 00:47:43 -0300"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-10-30 00:49:27 -0300"
-    },
-    "done": true
-  },
-  "mostructures:barn_house": {
-    "criteria": {
-      "barn_house": "2024-10-30 01:25:34 -0300"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_fire_dragon": "2024-10-30 00:31:15 -0300"
     },
     "done": true
   },
@@ -1358,15 +1328,69 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/miners_soul": {
+    "criteria": {
+      "amphibious_hands": "2024-10-30 00:47:43 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-10-30 00:48:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-10-30 00:49:27 -0300"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-10-30 00:54:39 -0300"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-10-30 01:10:25 -0300"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_naga": {
     "criteria": {
       "naga": "2024-10-30 01:15:40 -0300"
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "mostructures:barn_house": {
     "criteria": {
-      "bred": "2024-10-29 23:52:28 -0300"
+      "barn_house": "2024-10-30 01:25:34 -0300"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/dragons_eye": {
+    "criteria": {
+      "dragons_eye": "2024-10-30 11:13:05 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-10-30 11:07:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-10-30 11:07:07 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:root": {
+    "criteria": {
+      "crafting_table": "2024-10-30 11:07:07 -0300"
     },
     "done": true
   },
