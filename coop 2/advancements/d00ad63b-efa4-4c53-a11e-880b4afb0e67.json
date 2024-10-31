@@ -1069,6 +1069,8 @@
   "miningmaster:miningmaster/top_to_bottom": {
     "criteria": {
       "miningmaster:unbreaking_iolite": "2024-10-27 00:25:41 -0300",
+      "miningmaster:spider_kunzite": "2024-10-30 22:24:51 -0300",
+      "miningmaster:ice_sapphire": "2024-10-30 22:27:18 -0300",
       "miningmaster:fire_ruby": "2024-10-28 21:24:39 -0300",
       "miningmaster:lucky_citrine": "2024-10-27 17:13:54 -0300",
       "miningmaster:spirit_garnet": "2024-10-26 17:30:04 -0300",
@@ -1084,9 +1086,11 @@
   },
   "miningmaster:miningmaster/the_collector": {
     "criteria": {
+      "miningmaster:ice_sapphire": "2024-10-30 22:27:18 -0300",
       "miningmaster:spirit_garnet": "2024-10-26 17:30:04 -0300",
       "miningmaster:heart_rhodonite": "2024-10-30 00:43:54 -0300",
       "miningmaster:unbreaking_iolite": "2024-10-27 00:25:41 -0300",
+      "miningmaster:spider_kunzite": "2024-10-30 22:24:51 -0300",
       "miningmaster:power_pyrite": "2024-10-27 17:19:05 -0300",
       "miningmaster:kinetic_opal": "2024-10-30 00:47:09 -0300",
       "miningmaster:fire_ruby": "2024-10-28 21:24:39 -0300",
@@ -1370,12 +1374,6 @@
     },
     "done": true
   },
-  "nameless_trinkets:obtain/dragons_eye": {
-    "criteria": {
-      "dragons_eye": "2024-10-30 11:13:05 -0300"
-    },
-    "done": true
-  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2024-10-30 11:07:07 -0300"
@@ -1391,6 +1389,12 @@
   "soulsweapons:root": {
     "criteria": {
       "crafting_table": "2024-10-30 11:07:07 -0300"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/dragons_eye": {
+    "criteria": {
+      "dragons_eye": "2024-10-30 11:13:05 -0300"
     },
     "done": true
   },
